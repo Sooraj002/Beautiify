@@ -1,12 +1,12 @@
 #searchBar {
-    margin-top: -60px;
-    width: auto;
+  margin-top: -60px;
+  width: auto;
 }
 
 #searchBar h1 {
-    font-size: 3rem;
+  font-size: 3rem;
 }
 
 #searchBar input {
-    margin-top: -10px;
+  margin-top: -10px;
 }
